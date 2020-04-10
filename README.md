@@ -1,8 +1,11 @@
 # PankajDhube_Adv_FrontEnd
 Hi,
 We start Advanced java Module we cover below points 
+
 1 JDBC Connectivity
+
 2 What is server?
+
 3 Difference between standalone App. & web application
 4 Configuration of server
 5 Web Application Flow
